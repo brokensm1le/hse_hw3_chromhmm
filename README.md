@@ -27,6 +27,7 @@
 <p float="left">
   <img src="/ChromHMM_output/emissions_10.png" width="350" />
   <img src="/ChromHMM_output/transitions_10.png" width="350" />
-  <img src="/ChromHMM_output/Huvec_10_RefSeqTSS_neighborhood.png" width="350" />
-  <img src="/ChromHMM_output/Huvec_10_RefSeqTES_neighborhood.png" width="350" />
+  <img src="/ChromHMM_output/Huvec_10_overlap.png" width="350" />
+  <img src="/ChromHMM_output/Huvec_10_RefSeqTSS_neighborhood.png" width="400" />
+  <img src="/ChromHMM_output/Huvec_10_RefSeqTES_neighborhood.png" width="400" />
 </p>
