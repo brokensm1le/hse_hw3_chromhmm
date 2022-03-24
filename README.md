@@ -20,3 +20,13 @@
 |	H3k79me2 |	H3k79me2AlnRep1.bam	|
 | H3k9ac |	H3k9acStdAlnRep1.bam	|
 | H3k9me1 |	H3k9me1StdAlnRep1.bam	|
+
+Полученные изображения после ChromHMM:
+
+
+<p float="left">
+  <img src="/ChromHMM_output/emissions_10.png" width="350" />
+  <img src="/ChromHMM_output/transitions_10.png" width="350" />
+  <img src="/ChromHMM_output/Huvec_10_RefSeqTSS_neighborhood.png" width="350" />
+  <img src="/ChromHMM_output/Huvec_10_RefSeqTES_neighborhood.png" width="350" />
+</p>
