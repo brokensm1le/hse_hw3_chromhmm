@@ -2,4 +2,4 @@
 
 Задание было выполнено для клеточной линии: `Huvec`.
 
-Ссылка на *GoogleColab*:
+Ссылка на *GoogleColab*: https://colab.research.google.com/drive/1mhrtzEmvPfNIupvTPz2-6cDMCSon27ht?usp=sharing
