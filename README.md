@@ -45,5 +45,5 @@
 |   6   |	<img src="/pic/6_bio.png" width="200" /> |	H3k4me2StdAlnRep1.bam	              | ------------------------------ |
 |   7   |	<img src="/pic/7_bio.png" width="200" /> |	H3k4me3StdAlnRep1.bam	              | ------------------------------ |
 |   8   |	<img src="/pic/8_bio.png" width="200" /> |	H3k79me2AlnRep1.bam	                | ------------------------------ |
-|   9   | <img src="/pic/9_bio.png" width="200" /> |	H3k9acStdAlnRep1.bam	              | ------------------------------ |
+|   9   | <img src="/pic/9_bio.png" width="200" /> | `H3k79me2AlnRep1.bam`                | Heterochromatin |
 |   10  | <img src="/pic/10_bio.png" width="200" />|	H3k9me1StdAlnRep1.bam	              | ------------------------------ |
