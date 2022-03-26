@@ -37,14 +37,14 @@
 | ----- | ------------------------------------------- | ------------------------------ |
 |   1   | Гистоновые Mодификации:NA. Показывает низкий сигнал.| Repressed |
 |   2   | ГМ:`H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam`. Чаще всего ассоциировано с ядерной ламиной. Показывает средний сигнал. | Heterochromatin |
-|   3   |	ГМ:`H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam`| Repressed |
-|   4   |	ГМ:`H2azAlnRep1.bam`                           | Enhancer |
-|   5   |	ГМ:`H3k4me2(3)StdAlnRep1.bam`, `H3k27acStdAlnRep1.bam`,`H3k79me2AlnRep1.bam` | Promoter |
-|   6   |	ГМ:`H3k4me1StdAlnRep1.bam`, `H3k27acStdAlnRep1.bam` | Enhancer |
-|   7   |	ГМ:NA                                          | Transcribed |
-|   8   |	ГМ:`H3k4me2StdAlnRep1.bam` и `H3k79me2AlnRep1.bam` | Promoter |
-|   9   | ГМ:`H3k79me2AlnRep1.bam`	                      | Enhancer |
-|   10  | ГМ:NA	                                        | Transcribed |
+|   3   |	ГМ:`H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam`. Показывает средний сигнал.| Repressed |
+|   4   |	ГМ:`H2azAlnRep1.bam`. Показывает низкий сигнал. Большой процент в CpG откровков.| Enhancer |
+|   5   |	ГМ:`H3k4me2(3)StdAlnRep1.bam`, `H3k27acStdAlnRep1.bam`,`H3k79me2AlnRep1.bam`. Показывает высокий сигнал. Большой процент в CpG откровков. Большой процент Exon. | Promoter |
+|   6   |	ГМ:`H3k4me1StdAlnRep1.bam`, `H3k27acStdAlnRep1.bam`. Показывает высокий сигнал. | Enhancer |
+|   7   |	ГМ:NA. Показывает низкий сигнал.    | Transcribed |
+|   8   |	ГМ:`H3k4me2StdAlnRep1.bam` и `H3k79me2AlnRep1.bam`. Показывает высокий сигнал. | Promoter |
+|   9   | ГМ:`H3k79me2AlnRep1.bam`. Показывает средний сигнал.  | Enhancer |
+|   10  | ГМ:NA. Показывает низкий сигнал.	  | Transcribed |
 
 
 #### Таблица с примерами/скринами:
