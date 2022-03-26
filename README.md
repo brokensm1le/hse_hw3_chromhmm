@@ -37,10 +37,10 @@
 
 | State | Скрин с genome.ucsc                      | Гистоновые модификации:              | Название эпигенетического типа |
 | ----- | ---------------------------------------- | ------------------------------------ | ------------------------------ |
-|   1   | <img src="/pic/1_bio.png" width="200" /> | `H2azAlnRep1.bam`(но не ярко выраженно) | Repressed |
+|   1   | <img src="/pic/1_bio.png" width="200" /> | `H2azAlnRep1.bam`(но не ярко выраженно)     | Repressed |
 |   2   | <img src="/pic/2_bio.png" width="200" /> | `H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam`| Repressed |
-|   3   |	<img src="/pic/3_bio.png" width="200" /> |	H3k27me3StdAlnRep1.bam              | Repressed |
-|   4   |	<img src="/pic/4_bio.png" width="200" /> |	H3k36me3StdAlnRep1.bam              | ------------------------------ |
+|   3   |	<img src="/pic/3_bio.png" width="200" /> | `H2azAlnRep1.bam` и `H3k4me3StdAlnRep1.bam` | Repressed |
+|   4   |	<img src="/pic/4_bio.png" width="200" /> | `H2azAlnRep1.bam`                           | Heterochromatin |
 |   5   |	<img src="/pic/5_bio.png" width="200" /> |	H3k4me1StdAlnRep1.bam	              | ------------------------------ |
 |   6   |	<img src="/pic/6_bio.png" width="200" /> |	H3k4me2StdAlnRep1.bam	              | ------------------------------ |
 |   7   |	<img src="/pic/7_bio.png" width="200" /> |	H3k4me3StdAlnRep1.bam	              | ------------------------------ |
