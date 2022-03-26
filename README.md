@@ -61,3 +61,6 @@
 |   8   |	<img src="/pic/8_bio.png" width="200" /> |
 |   9   | <img src="/pic/9_bio.png" width="200" /> |
 |   10  | <img src="/pic/10_bio.png" width="200" />|
+
+## Part 2 (BONUS)
+<img src="/pic/bonus.png" width="800" />
