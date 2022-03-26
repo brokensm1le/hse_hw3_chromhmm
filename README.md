@@ -37,13 +37,14 @@
 
 | State | Скрин с genome.ucsc                      | Описание                             | Название эпигенетического типа |
 | ----- | ---------------------------------------- | ------------------------------------ | ------------------------------ |
-|   1   | <img src="/pic/1_bio.png" width="100" /> | H2azAlnRep1.bam	                    | ------------------------------ |
-|   2   | <img src="/pic/2_bio.png" width="100" /> | Встречаются гистоновые модификации: `H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam`| Repressed |
-|   3   |	<img src="/pic/3_bio.png" width="100" /> |	H3k27me3StdAlnRep1.bam              | ------------------------------ |
-|   4   |	<img src="/pic/4_bio.png" width="100" /> |	H3k36me3StdAlnRep1.bam              | ------------------------------ |
-|   5   |	<img src="/pic/5_bio.png" width="100" /> |	H3k4me1StdAlnRep1.bam	              | ------------------------------ |
-|   6   |	<img src="/pic/6_bio.png" width="100" /> |	H3k4me2StdAlnRep1.bam	              | ------------------------------ |
-|   7   |	<img src="/pic/7_bio.png" width="100" /> |	H3k4me3StdAlnRep1.bam	              | ------------------------------ |
-|   8   |	<img src="/pic/8_bio.png" width="100" /> |	H3k79me2AlnRep1.bam	                | ------------------------------ |
-|   9   | <img src="/pic/9_bio.png" width="100" /> |	H3k9acStdAlnRep1.bam	              | ------------------------------ |
-|   10  | <img src="/pic/10_bio.png" width="100" />|	H3k9me1StdAlnRep1.bam	              | ------------------------------ |
+|   1   | <img src="/pic/1_bio.png" width="200" /> | H2azAlnRep1.bam	                    | ------------------------------ |
+|   2   | <img src="/pic/2_bio.png" width="200" /> | Встречаются гистоновые модификации: 
+`H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam`| Repressed |
+|   3   |	<img src="/pic/3_bio.png" width="200" /> |	H3k27me3StdAlnRep1.bam              | ------------------------------ |
+|   4   |	<img src="/pic/4_bio.png" width="200" /> |	H3k36me3StdAlnRep1.bam              | ------------------------------ |
+|   5   |	<img src="/pic/5_bio.png" width="200" /> |	H3k4me1StdAlnRep1.bam	              | ------------------------------ |
+|   6   |	<img src="/pic/6_bio.png" width="200" /> |	H3k4me2StdAlnRep1.bam	              | ------------------------------ |
+|   7   |	<img src="/pic/7_bio.png" width="200" /> |	H3k4me3StdAlnRep1.bam	              | ------------------------------ |
+|   8   |	<img src="/pic/8_bio.png" width="200" /> |	H3k79me2AlnRep1.bam	                | ------------------------------ |
+|   9   | <img src="/pic/9_bio.png" width="200" /> |	H3k9acStdAlnRep1.bam	              | ------------------------------ |
+|   10  | <img src="/pic/10_bio.png" width="200" />|	H3k9me1StdAlnRep1.bam	              | ------------------------------ |
