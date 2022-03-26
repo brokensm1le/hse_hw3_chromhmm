@@ -38,8 +38,7 @@
 | State | Скрин с genome.ucsc                      | Описание                             | Название эпигенетического типа |
 | ----- | ---------------------------------------- | ------------------------------------ | ------------------------------ |
 |   1   | <img src="/pic/1_bio.png" width="200" /> | H2azAlnRep1.bam	                    | ------------------------------ |
-|   2   | <img src="/pic/2_bio.png" width="200" /> | Встречаются гистоновые модификации: 
-`H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam`| Repressed |
+|   2   | <img src="/pic/2_bio.png" width="200" /> | Встречаются гистоновые модификации: \n `H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam`| Repressed |
 |   3   |	<img src="/pic/3_bio.png" width="200" /> |	H3k27me3StdAlnRep1.bam              | ------------------------------ |
 |   4   |	<img src="/pic/4_bio.png" width="200" /> |	H3k36me3StdAlnRep1.bam              | ------------------------------ |
 |   5   |	<img src="/pic/5_bio.png" width="200" /> |	H3k4me1StdAlnRep1.bam	              | ------------------------------ |
