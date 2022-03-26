@@ -35,16 +35,16 @@
 
 | State | Описание                                    | Название эпигенетического типа |
 | ----- | ------------------------------------------- | ------------------------------ |
-|   1   | NA                                          | Heterochromatin |
-|   2   | `H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam`| Repressed |
+|   1   | NA                                          | Repressed |
+|   2   | `H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam`| Heterochromatin |
 |   3   |	`H2azAlnRep1.bam` и `H3k4me3StdAlnRep1.bam` | Repressed |
 |   4   |	`H2azAlnRep1.bam`                           | Enhancer |
 |   5   |	`H3k4me2(3)StdAlnRep1.bam`, `H3k27acStdAlnRep1.bam`,`H3k79me2AlnRep1.bam` | Promoter |
 |   6   |	`H3k4me1StdAlnRep1.bam`, `H3k27acStdAlnRep1.bam` | Enhancer |
-|   7   |	NA                                          | Enhancer |
+|   7   |	NA                                          | Transcribed |
 |   8   |	`H3k4me2StdAlnRep1.bam` и `H3k79me2AlnRep1.bam` | Promoter |
 |   9   | `H3k79me2AlnRep1.bam`	                      | Enhancer |
-|   10  | NA	                                        | Enhancer |
+|   10  | NA	                                        | Transcribed |
 
 
 #### Таблица с примерами/скринами:
