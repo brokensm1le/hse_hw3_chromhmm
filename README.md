@@ -35,8 +35,8 @@
 
 | State | Описание                                    | Название эпигенетического типа |
 | ----- | ------------------------------------------- | ------------------------------ |
-|   1   | Гистоновые Mодификации:NA. Чаще всего ассоциировано с ядерной ламиной. \\\ Показывает низкий сигнал.| Repressed |
-|   2   | ГМ:`H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam` \ Чаще всего ассоциировано с ядерной ламиной; \ Показывает средний сигнал | Heterochromatin |
+|   1   | Гистоновые Mодификации:NA. Показывает низкий сигнал.| Repressed |
+|   2   | ГМ:`H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam`. Чаще всего ассоциировано с ядерной ламиной. Показывает средний сигнал. | Heterochromatin |
 |   3   |	ГМ:`H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam`| Repressed |
 |   4   |	ГМ:`H2azAlnRep1.bam`                           | Enhancer |
 |   5   |	ГМ:`H3k4me2(3)StdAlnRep1.bam`, `H3k27acStdAlnRep1.bam`,`H3k79me2AlnRep1.bam` | Promoter |
