@@ -35,16 +35,16 @@
 
 | State | Описание                                    | Название эпигенетического типа |
 | ----- | ------------------------------------------- | ------------------------------ |
-|   1   | NA                                          | Repressed |
-|   2   | `H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam`| Heterochromatin |
-|   3   |	`H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam`| Repressed |
-|   4   |	`H2azAlnRep1.bam`                           | Enhancer |
-|   5   |	`H3k4me2(3)StdAlnRep1.bam`, `H3k27acStdAlnRep1.bam`,`H3k79me2AlnRep1.bam` | Promoter |
-|   6   |	`H3k4me1StdAlnRep1.bam`, `H3k27acStdAlnRep1.bam` | Enhancer |
-|   7   |	NA                                          | Transcribed |
-|   8   |	`H3k4me2StdAlnRep1.bam` и `H3k79me2AlnRep1.bam` | Promoter |
-|   9   | `H3k79me2AlnRep1.bam`	                      | Enhancer |
-|   10  | NA	                                        | Transcribed |
+|   1   | Гистоновые Mодификации:NA; \ Чаще всего ассоциировано с ядерной ламиной; \ Показывает низкий сигнал \ | Repressed |
+|   2   | ГМ:`H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam` \ Чаще всего ассоциировано с ядерной ламиной; \ Показывает средний сигнал | Heterochromatin |
+|   3   |	ГМ:`H2azAlnRep1.bam` и `H3k27me3StdAlnRep1.bam`| Repressed |
+|   4   |	ГМ:`H2azAlnRep1.bam`                           | Enhancer |
+|   5   |	ГМ:`H3k4me2(3)StdAlnRep1.bam`, `H3k27acStdAlnRep1.bam`,`H3k79me2AlnRep1.bam` | Promoter |
+|   6   |	ГМ:`H3k4me1StdAlnRep1.bam`, `H3k27acStdAlnRep1.bam` | Enhancer |
+|   7   |	ГМ:NA                                          | Transcribed |
+|   8   |	ГМ:`H3k4me2StdAlnRep1.bam` и `H3k79me2AlnRep1.bam` | Promoter |
+|   9   | ГМ:`H3k79me2AlnRep1.bam`	                      | Enhancer |
+|   10  | ГМ:NA	                                        | Transcribed |
 
 
 #### Таблица с примерами/скринами:
